@@ -1,0 +1,38 @@
+body{
+  background-color: #495464;
+  padding: 0% ;
+}
+
+.Container {
+  text-align: center;
+  padding-bottom: 0;
+}
+
+.player {
+  display: inline-block;
+  text-align: center;
+  padding: 1.5rem;
+
+
+}
+
+
+h1{
+  font-size: 5.5rem;
+  font-family: 'Henny Penny', cursive;
+  color: #fcf876;
+  margin-bottom: 0;
+
+}
+
+h2{
+  font-size: 3rem;
+  font-family: 'Indie Flower', cursive;
+  padding-top: 0;
+  color: #fcf876;
+}
+
+footer{
+  margin-top: 5rem;
+  text-align: center;
+}
